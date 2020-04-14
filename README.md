@@ -1,6 +1,6 @@
-//tutorial install
-
-composer install
-npm install && npm run dev
-php artisan key:generate
-php artisan migrate --seed
+//tutorial install<br>
+<br>
+composer install<br>
+npm install && npm run dev<br>
+php artisan key:generate<br>
+php artisan migrate --seed<br>
